@@ -1,0 +1,2 @@
+# spdlog appender
+A [custom logging sink](https://github.com/gabime/spdlog/wiki/4.-Sinks#implementing-your-own-sink) for the popular C++ library [spdlog](https://github.com/gabime/spdlog) using the opentelemetry [logs bridge api](https://github.com/open-telemetry/opentelemetry-specification/blob/main/specification/logs/bridge-api.md).

@@ -1,0 +1,6 @@
+bin*
+lib*
+doc*
+*.exe
+*.lib
+*.dll

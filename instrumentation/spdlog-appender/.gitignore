@@ -1,6 +1,8 @@
 bin*
 lib*
 doc*
+out*
+build*
 *.exe
 *.lib
 *.dll
